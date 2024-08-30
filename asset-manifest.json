@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/studentEduTrackerSystem-using-react/static/css/main.58eb15cf.css",
+    "main.css": "/studentEduTrackerSystem-using-react/static/css/main.8bfda28e.css",
     "main.js": "/studentEduTrackerSystem-using-react/static/js/main.f818ce56.js",
     "static/media/college logo.png": "/studentEduTrackerSystem-using-react/static/media/college logo.06e1131ea176a67a9565.png",
     "index.html": "/studentEduTrackerSystem-using-react/index.html",
-    "main.58eb15cf.css.map": "/studentEduTrackerSystem-using-react/static/css/main.58eb15cf.css.map",
+    "main.8bfda28e.css.map": "/studentEduTrackerSystem-using-react/static/css/main.8bfda28e.css.map",
     "main.f818ce56.js.map": "/studentEduTrackerSystem-using-react/static/js/main.f818ce56.js.map"
   },
   "entrypoints": [
-    "static/css/main.58eb15cf.css",
+    "static/css/main.8bfda28e.css",
     "static/js/main.f818ce56.js"
   ]
 }
